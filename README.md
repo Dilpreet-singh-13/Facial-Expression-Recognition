@@ -14,6 +14,8 @@
 <img src="https://user-images.githubusercontent.com/7460892/207004091-8f67548d-50ac-49c3-b7cb-ef8ec18a6491.png" width="40%" height="40%">
 
 
+*No longer working*
+
 ## **4. Live link**
 Link: www.FacialExpressionRecognition.com
 
